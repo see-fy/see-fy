@@ -1,7 +1,8 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2022/08/15/03/07/path-7387018__340.jpg)]
+[![MasterHead](https://cdn.pixabay.com/animation/2022/10/02/20/38/20-38-05-622_640.png")]
+
 <h1 align="center">Hi 👋, I'm Thrn</h1>
 <h3 align="center">A passionate frontend developer from Senegal</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/animation/2022/10/10/02/39/02-39-55-927_512.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=see-fy&label=Profile%20views&color=0e75b6&style=flat" alt="see-fy" /> </p>
 
