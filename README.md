@@ -1,7 +1,6 @@
 [![MasterHead](https://cdn.pixabay.com/animation/2022/10/02/20/38/20-38-05-622_640.png")]
 
-<h1 align="center">Hi 👋, I'm Thrn</h1>
-<h3 align="center">A passionate frontend developer from Senegal</h3>
+<h1 align="center">Hi 👋, There</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/animation/2022/10/10/02/39/02-39-55-927_512.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=see-fy&label=Profile%20views&color=0e75b6&style=flat" alt="see-fy" /> </p>
@@ -9,26 +8,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=see-fy" alt="see-fy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/seefy" target="blank"><img src="https://img.shields.io/twitter/follow/seefy?logo=twitter&style=for-the-badge" alt="seefy" /></a> </p>
-
-- 🔭 I’m currently working on [Seefy](coming.soon)
-
-- 🌱 I’m currently learning **React, Redux ReactNative, NodeJs Javascript Html,Css**
-
-- 👯 I’m looking to collaborate on [Seefy](coming.soon)
-
-- 🤝 I’m looking for help with [Seefy](coming.soon)
-
-- 👨‍💻 All of my projects are available at [portfolio.coming.soon](portfolio.coming.soon)
-
-- 📝 I regularly write articles on [senetimes-web-app](senetimes-web-app)
-
-- 💬 Ask me about **React and Redux Firebase**
-
-- 📫 How to reach me **nolantique@gmail.com**
-
-- 📄 Know about my experiences [coming.soon](coming.soon)
-
-- ⚡ Fun fact **A truth is a sharp dagger it leaves one wound whereas a promise leaves a thousand...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
